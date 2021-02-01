@@ -1,0 +1,3 @@
+C:/Users/Patryk/GithuuubTrain/cmake-build-debug/CMakeFiles/GithuuubTrain.dir
+C:/Users/Patryk/GithuuubTrain/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Patryk/GithuuubTrain/cmake-build-debug/CMakeFiles/rebuild_cache.dir
